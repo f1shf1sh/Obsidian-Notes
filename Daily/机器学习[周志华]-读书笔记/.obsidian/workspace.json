@@ -1,0 +1,187 @@
+{
+  "main": {
+    "id": "c58d974529ef438a",
+    "type": "split",
+    "children": [
+      {
+        "id": "1a265bdf7ce06363",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "29ce6f725e6410ed",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a868cc076c775eac",
+    "type": "split",
+    "children": [
+      {
+        "id": "0601a55b55b97b71",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cfd2be0cc1da192c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "317733971ce7629a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "979598adc147d001",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 265.5
+  },
+  "right": {
+    "id": "60c5e99eff9c5b7b",
+    "type": "split",
+    "children": [
+      {
+        "id": "8a1deb24ddba6077",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1c085f52590e6268",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "评估方法.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "评估方法 的反向链接列表"
+            }
+          },
+          {
+            "id": "032f678f0d29fba5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "评估方法.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "评估方法 的出链列表"
+            }
+          },
+          {
+            "id": "70961a50a60e04d3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "3ef8097ffc6909a9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "评估方法.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "评估方法 的大纲"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:创建新数据库": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "cfd2be0cc1da192c",
+  "lastOpenFiles": [
+    "未命名",
+    "git提交规范.md",
+    "RDMA.md",
+    "欢迎.md",
+    "评估方法.md",
+    "暑假作业.md",
+    "未命名.base",
+    "未命名 1",
+    "草稿.md",
+    "入门基础.md",
+    "未命名 1.base",
+    "未命名 2.base",
+    "未命名 2.md",
+    "未命名 1.md",
+    "2025-06-04.md"
+  ]
+}
